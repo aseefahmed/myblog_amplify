@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "aseefahmed8f22f27e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
